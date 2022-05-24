@@ -1,2 +1,5 @@
 # Fifa-20
-Fifa 20 data set
+#### Problem statement
+Using clustering algorithms to categorize similar players using their traits and their different skills in the field
+
+.
